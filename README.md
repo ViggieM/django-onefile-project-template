@@ -2,7 +2,7 @@
 
 ```bash
 
-django-admin startproject my_awsome_project . --template=https://github.com/movileanuv/django-onefile-project-template/archive/main.zip
+django-admin startproject my_awsome_project . --template=https://github.com/ViggieM/django-onefile-project-template/archive/main.zip
 ```
 
 It is recommended to create a virtual environment for your application.
